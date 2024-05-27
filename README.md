@@ -19,7 +19,7 @@ your-project/
 * docker stop spring-ai-gemini
 * docker run -p 8080:8080 spring-ai-gemini
 
-**#Endpoints:
+**#Endpoints:**
 
 localhost:8080/ai/generate (Generate Text)  
 localhost:8080/ai/generateStream (Generate Text Stream)  
