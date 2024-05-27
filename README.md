@@ -18,3 +18,12 @@ your-project/
 
 * docker stop spring-ai-gemini
 * docker run -p 8080:8080 spring-ai-gemini
+
+**#Endpoints:
+
+localhost:8080/ai/generate (Generate Text)
+localhost:8080/ai/generateStream (Generate Text Stream)
+localhost:8080/ai/weather (Function Calling using Agents)
+localhost:8080/ai/multimodal (Multimodal prompts using Image and Text)
+
+
