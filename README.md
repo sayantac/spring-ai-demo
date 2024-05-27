@@ -21,9 +21,9 @@ your-project/
 
 **#Endpoints:
 
-localhost:8080/ai/generate (Generate Text)
-localhost:8080/ai/generateStream (Generate Text Stream)
-localhost:8080/ai/weather (Function Calling using Agents)
-localhost:8080/ai/multimodal (Multimodal prompts using Image and Text)
+localhost:8080/ai/generate (Generate Text)  
+localhost:8080/ai/generateStream (Generate Text Stream)  
+localhost:8080/ai/weather (Function Calling using Agents)  
+localhost:8080/ai/multimodal (Multimodal prompts using Image and Text)  
 
 
